@@ -2,11 +2,11 @@
  
  
  
-📹 Summarize YouTube videos based on the provided video URL.
-📋 Accepts one argument: YouTube video URL.
-🎯 Output the summarized video transcript.
-🌐 Supports multiple languages
-⚠️ IMPORTANT: API Key Setup
+ Summarize YouTube videos based on the provided video URL.
+ Accepts one argument: YouTube video URL.
+ Output the summarized video transcript.
+ Supports multiple languages
+ IMPORTANT: API Key Setup
 
 Before running the application, please follow the steps below:
 
